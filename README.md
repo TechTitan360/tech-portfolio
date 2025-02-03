@@ -44,4 +44,4 @@ netlify deploy
 ## 📬 Contact
 If you want to get in touch, feel free to reach out:
 - **Email:** bhardwaj.aditya1910@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** https://www.linkedin.com/in/aditya-bhardwaj-997120289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
