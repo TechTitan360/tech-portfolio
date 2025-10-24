@@ -1,7 +1,6 @@
 node_modules
 
-# Personal Information
-src/data/personalInfo.json
+# Personal Resume (keep private)
 public/Aditya_Bhardwaj_Resume.pdf
 
 # Build outputs

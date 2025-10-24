@@ -1,0 +1,255 @@
+{
+    "name": "Aditya Bhardwaj",
+    "title": "Web Developer & UI/UX Designer",
+    "subtitle": "Creative Developer",
+    "tagline": "Available for work",
+    "bio": "Creative and detail-oriented web developer skilled in React, Next.js, and UI/UX design, passionate about crafting fast, elegant, and user-focused digital experiences.",
+    "objective": "A highly adaptive web developer who blends design precision with functional performance. Thrives in innovation-driven teams and believes in building products that feel as good as they perform.",
+    "education": {
+        "degree": "Bachelor of Technology (B.Tech)",
+        "major": "Computer Science and Engineering",
+        "university": "Galgotias University",
+        "expectedGraduation": "2027"
+    },
+    "location": {
+        "university": "Galgotias University",
+        "country": "India",
+        "remote": true
+    },
+    "contact": {
+        "email": "adityabhardwaj3369@gmail.com",
+        "phone": "+91 7000825101",
+        "linkedin": "https://www.linkedin.com/in/aditya-bhardwaj-997120289",
+        "github": "https://github.com/TechTitan360",
+        "twitter": "https://twitter.com/TechTitan360"
+    },
+    "resume": "/Aditya_Bhardwaj_Resume.pdf",
+    "availability": {
+        "freelance": true,
+        "fullTime": true,
+        "internship": true
+    },
+    "skills": {
+        "frontend": [
+            {
+                "name": "React.js",
+                "experience": "2 years",
+                "level": 85,
+                "projects": 15
+            },
+            {
+                "name": "Next.js",
+                "experience": "1.5 years",
+                "level": 80,
+                "projects": 10
+            },
+            {
+                "name": "JavaScript (ES6+)",
+                "experience": "2.5 years",
+                "level": 90,
+                "projects": 20
+            },
+            {
+                "name": "TypeScript",
+                "experience": "1 year",
+                "level": 75,
+                "projects": 8
+            },
+            {
+                "name": "Tailwind CSS",
+                "experience": "2 years",
+                "level": 95,
+                "projects": 18
+            },
+            {
+                "name": "HTML/CSS",
+                "experience": "3 years",
+                "level": 95,
+                "projects": 25
+            },
+            {
+                "name": "GSAP",
+                "experience": "1 year",
+                "level": 70,
+                "projects": 6
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node.js",
+                "experience": "1 year",
+                "level": 60,
+                "projects": 5
+            },
+            {
+                "name": "Bun Runtime",
+                "experience": "6 months",
+                "level": 50,
+                "projects": 3
+            }
+        ],
+        "design": [
+            {
+                "name": "Figma",
+                "experience": "2 years",
+                "level": 85,
+                "projects": 20
+            },
+            {
+                "name": "UI/UX Design",
+                "experience": "2 years",
+                "level": 80,
+                "projects": 15
+            },
+            {
+                "name": "Responsive Design",
+                "experience": "2.5 years",
+                "level": 90,
+                "projects": 22
+            },
+            {
+                "name": "Bento UI Design",
+                "experience": "1 year",
+                "level": 85,
+                "projects": 8
+            },
+            {
+                "name": "Neumorphism UI",
+                "experience": "1 year",
+                "level": 75,
+                "projects": 6
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git & GitHub",
+                "experience": "2 years",
+                "level": 85
+            },
+            {
+                "name": "API Integration",
+                "experience": "1.5 years",
+                "level": 75
+            },
+            {
+                "name": "UI Optimization",
+                "experience": "2 years",
+                "level": 80
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "AI Anime Desktop Assistant",
+            "description": "Built an interactive AI desktop assistant with anime-style responses and speech recognition using JavaScript and Python. Integrated text-to-speech and OpenAI APIs for dynamic real-time interaction.",
+            "tags": [
+                "JavaScript",
+                "Python",
+                "OpenAI API",
+                "Text-to-Speech",
+                "Speech Recognition"
+            ],
+            "category": "AI/ML",
+            "featured": true
+        },
+        {
+            "title": "Galgotias Tech Council Website",
+            "description": "Designed and developed the official tech council website with a Bento-style responsive layout using React, Tailwind, and GSAP for smooth animations.",
+            "tags": [
+                "React.js",
+                "Tailwind CSS",
+                "GSAP",
+                "Bento UI",
+                "Responsive Design"
+            ],
+            "category": "Web Development",
+            "featured": true,
+            "link": "https://github.com/TechTitan360"
+        },
+        {
+            "title": "Novatag (NASA Space Apps Challenge)",
+            "description": "Created a visually engaging web experience for exoplanet exploration using React and Tailwind. Built interactive components and data visualizations.",
+            "tags": [
+                "React.js",
+                "Tailwind CSS",
+                "Data Visualization",
+                "NASA API"
+            ],
+            "category": "Hackathon",
+            "featured": true,
+            "achievement": "NASA Space Apps Challenge 2024"
+        },
+        {
+            "title": "Open AQM (Open Air Quality Monitoring)",
+            "description": "Developed an open-source platform to visualize and analyze live air quality data using Next.js and Node.js. Integrated APIs for live updates.",
+            "tags": [
+                "Next.js",
+                "Node.js",
+                "API Integration",
+                "Data Visualization"
+            ],
+            "category": "Web Development",
+            "featured": true
+        },
+        {
+            "title": "Personal Portfolio",
+            "description": "Built and deployed a minimalist personal portfolio using Next.js and Tailwind CSS focusing on symmetry, motion, and clean UI.",
+            "tags": [
+                "Next.js",
+                "Tailwind CSS",
+                "Framer Motion",
+                "UI/UX"
+            ],
+            "category": "Portfolio",
+            "featured": false
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Cloud Virtual Internship",
+            "issuer": "AWS & Eduskills",
+            "year": "2024"
+        },
+        {
+            "name": "Solutions Architecture Simulation",
+            "issuer": "AWS APAC (Forage)",
+            "year": "2024"
+        },
+        {
+            "name": "Fusion Friday: Brew Your Code",
+            "issuer": "Coding Ninjas CUIET | 10X Club",
+            "achievement": "All India Rank: 75",
+            "year": "2024"
+        }
+    ],
+    "leadership": [
+        {
+            "role": "Coordinator, Web Development Club",
+            "organization": "Galgotias University",
+            "responsibilities": "Led UI design, mentoring, and internal project coordination"
+        },
+        {
+            "role": "Hackathon Participant",
+            "events": [
+                "NASA Space Apps 2024",
+                "Smart India Hackathon 2024"
+            ]
+        },
+        {
+            "achievement": "Designed UI architecture for projects recognized in inter-university competitions"
+        }
+    ],
+    "softSkills": [
+        "Analytical Thinking",
+        "UI Symmetry Sense",
+        "Team Collaboration",
+        "Fast Learning",
+        "Creative Problem Solving"
+    ],
+    "preferences": {
+        "workingHours": "Flexible & Adaptive",
+        "coffee": "Powered by creativity ☕",
+        "music": "Coding with focus 🎧",
+        "motto": "Build products that feel as good as they perform"
+    }
+}
