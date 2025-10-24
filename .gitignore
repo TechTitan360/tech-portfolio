@@ -1,27 +1,17 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+node_modules
 
-# dependencies
-/node_modules
+# Personal Information
+src/data/personalInfo.json
+public/Aditya_Bhardwaj_Resume.pdf
 
-# next.js
-/.next/
-/out/
+# Build outputs
+dist
+.vite
 
-# production
-/build
+# Editor
+.vscode
+.idea
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+# OS
+.DS_Store
+Thumbs.db

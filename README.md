@@ -1,47 +1,11 @@
-# My Tech Portfolio
 
-## 🚀 Overview
-This is my personal tech portfolio built using **Next.js**. It showcases my projects, skills, and experience in web development and software engineering.
+  # Developer Portfolio UI Design
 
-## 🔥 Features
-- Fully responsive and modern UI
-- Showcases my projects with live demos and source code
-- About Me section with details on my skills and experience
-- Contact form for easy communication
-- SEO optimized for better visibility
-- Fast performance with Next.js optimizations
+  This is a code bundle for Developer Portfolio UI Design. The original project is available at https://www.figma.com/design/Gly97NOKlk9U2sn86FKHhu/Developer-Portfolio-UI-Design.
 
-## 🛠 Tech Stack
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Deployment:** Github Pages
+  ## Running the code
 
-## 🔧 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-   cd your-portfolio
-   ```
-2. Install dependencies:
-   ```bash
-   npm install  # or yarn install
-   ```
-3. Run the development server:
-   ```bash
-   npm run dev  # or yarn dev
-   ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+  Run `npm i` to install the dependencies.
 
-## 🚀 Deployment
-To deploy the project on Vercel:
-```bash
-vercel
-```
-Or, if using Netlify:
-```bash
-netlify deploy
-```
-
-## 📬 Contact
-If you want to get in touch, feel free to reach out:
-- **Email:** bhardwaj.aditya1910@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/aditya-bhardwaj-997120289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  Run `npm run dev` to start the development server.
+  
