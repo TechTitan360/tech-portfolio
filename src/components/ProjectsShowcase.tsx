@@ -10,7 +10,7 @@ export function ProjectsShowcase() {
 
   const projectVisuals = [
     {
-      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      image: "/ai.png",
       color: "from-purple-400 to-pink-500",
       rotation: 3,
     },
