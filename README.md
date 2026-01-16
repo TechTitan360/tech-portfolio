@@ -1,264 +1,87 @@
-# 🚀 Aditya Bhardwaj | Creative Developer Portfolio
+# 👨‍💻 Aditya Bhardwaj — Portfolio
 
-<div align="center">
+A modern, editorial-style portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **GSAP** animations.
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     🎨 Web Developer × UI/UX Designer × Creative Coder 🎨    ║
-║                                                              ║
-║        Building products that feel as good as they perform   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwind-css)
+![GSAP](https://img.shields.io/badge/GSAP-3-88CE02?style=flat-square&logo=greensock)
 
-**⚡ Available for Freelance • Internships • Full-Time ⚡**
+## ✨ Features
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-pink?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=ec4899&border=4)](https://your-portfolio-url.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-TechTitan360-cyan?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=06b6d4&border=4)](https://github.com/TechTitan360)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-yellow?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=fbbf24&border=4)](https://www.linkedin.com/in/aditya-bhardwaj-997120289)
+- **Editorial Design** — Brutalist aesthetic with sharp edges and monospace typography
+- **Smooth Animations** — GSAP-powered scroll animations and transitions
+- **Responsive Layout** — Mobile-first design with asymmetric grids
+- **Dark Mode** — Monochrome palette with orange accent
+- **Performance** — Optimized with Next.js App Router and server components
 
-</div>
+## 🛠️ Tech Stack
 
----
+| Category | Technologies |
+|----------|-------------|
+| Framework | Next.js 14, React 18 |
+| Styling | Tailwind CSS 4, CSS Variables |
+| Animation | GSAP, ScrollTrigger |
+| Typography | IBM Plex Sans/Mono, Bebas Neue |
+| Deployment | Vercel |
 
-## 🎨 Design Philosophy
-
-> **Neubrutalism × Modern Web = 💥**
-
-```css
-.my-design-style {
-  borders: 4px solid black;
-  shadows: flat, bold, unapologetic;
-  colors: vibrant(pink, cyan, yellow, purple, lime);
-  animations: smooth && delightful;
-  vibe: playful yet professional;
-}
-```
-
-**Key Principles:**
-- 🟥 **Bold & Unapologetic** - Thick black borders on everything
-- 🌈 **Vibrant Color Palette** - Pink, Cyan, Yellow, Purple, Lime
-- 📦 **Flat Shadows** - No blurs, just solid drops (8px×8px)
-- ✨ **Micro-interactions** - Hover states that spark joy
-- 📱 **Responsive First** - Mobile → Tablet → Desktop perfection
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Design** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| React 18 | Node.js | Figma | Git & GitHub |
-| TypeScript | Bun Runtime | UI/UX Design | Vite 6 |
-| Tailwind CSS | - | Bento UI | Vercel |
-| Next.js | - | Neumorphism | GSAP |
-| Framer Motion | - | - | Radix UI |
-
-</div>
-
----
-
-## 🎯 Portfolio Sections
-
-```
-┌─────────────────────────────────────────────────────┐
-│  🏠 HERO SECTION                                    │
-│  → Animated introduction with CTAs                  │
-│                                                     │
-│  📖 ABOUT (BENTO GRID)                              │
-│  → Dynamic cards with education & preferences       │
-│                                                     │
-│  💼 PROJECTS SHOWCASE                               │
-│  → 5 featured projects with live demos             │
-│  → AI Assistant • Tech Council • NASA Challenge    │
-│                                                     │
-│  🛠️ INTERACTIVE SKILLS                              │
-│  → Frontend, Backend, Design skills                 │
-│                                                     │
-│  📊 PROOF OF WORK (STATS)                           │
-│  → GitHub stats • Certifications • Leadership       │
-│                                                     │
-│  📬 CONTACT SECTION                                 │
-│  → Email • Phone • Social links • Contact form      │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 🚀 Quick Start
-
-### 📦 Installation
+## 🚀 Getting Started
 
 ```bash
-# Clone the repo
-git clone https://github.com/TechTitan360/tech-portfolio.git
+# Clone the repository
+git clone https://github.com/yourusername/tech-portfolio.git
 
-# Enter directory
+# Navigate to directory
 cd tech-portfolio
 
-# Install dependencies (choose one)
-npm install   # or
-yarn install  # or
+# Install dependencies
 bun install
 
-# Start dev server
-npm run dev   # Runs on http://localhost:5173
+# Start development server
+bun dev
 ```
 
-### 🏗️ Build for Production
-
-```bash
-npm run build   # Output: build/
-```
-
-### 🚢 Deploy to Vercel
-
-```bash
-vercel --prod
-```
-
----
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## 📁 Project Structure
 
 ```
-tech-portfolio/
-│
-├── 📂 public/                    # Static assets
-│   ├── ai.png                    # AI assistant project image
-│   └── Aditya_Bhardwaj_Resume.pdf
-│
-├── 📂 src/
-│   ├── 📂 components/            # React components
-│   │   ├── Hero.tsx              # Landing hero section
-│   │   ├── BentoGrid.tsx         # About section (responsive grid)
-│   │   ├── ProjectsShowcase.tsx  # Featured projects
-│   │   ├── InteractiveSkills.tsx # Skills with hover effects
-│   │   ├── StatsSection.tsx      # GitHub stats & achievements
-│   │   ├── ContactSection.tsx    # Contact form & links
-│   │   ├── CustomCursor.tsx      # Custom neubrutalist cursor
-│   │   ├── FloatingDock.tsx      # Navigation dock
-│   │   └── 📂 ui/                # Reusable UI components
-│   │
-│   ├── 📂 data/
-│   │   └── personalInfo.json     # Dynamic portfolio data
-│   │
-│   ├── 📂 styles/
-│   │   └── globals.css           # Global styles
-│   │
-│   ├── App.tsx                   # Main app component
-│   └── main.tsx                  # Entry point
-│
-├── index.html                    # HTML entry
-├── vite.config.ts                # Vite configuration
-├── vercel.json                   # Vercel deployment config
-└── package.json                  # Dependencies
+├── app/
+│   ├── layout.tsx      # Root layout with fonts
+│   ├── page.tsx        # Main page composition
+│   └── globals.css     # Design tokens & base styles
+├── components/
+│   ├── hero-section.tsx
+│   ├── signals-section.tsx
+│   ├── work-section.tsx
+│   ├── principles-section.tsx
+│   ├── colophon-section.tsx
+│   └── ui/             # Reusable UI components
+├── lib/
+│   └── utils.ts        # Utility functions
+└── public/             # Static assets
 ```
 
----
+## 📜 Scripts
 
-## 🌟 Features Breakdown
-
-### 🎭 **Custom Cursor**
-- Black square outline that follows mouse
-- Rotates 45° on hover (buttons/links)
-- Smooth animations with Framer Motion
-
-### 📊 **Live GitHub Stats**
-- Real-time repo count via GitHub API
-- Contribution heatmap visualization (52 weeks)
-- Language breakdown & top repositories
-
-### 🎨 **Dynamic Content**
-- All data pulled from `personalInfo.json`
-- Update once → reflects everywhere
-- Easy to maintain & customize
-
-### ✨ **Smooth Animations**
-- Entrance animations on scroll
-- Hover states on every interactive element
-- Rotating decorative shapes
-
----
-
-## 🏆 Achievements & Highlights
-
-```
-🎓 B.Tech CSE @ Galgotias University (Class of 2027)
-💼 Web Dev Club Coordinator at Galgotias University
-🚀 15+ Projects (React, Next.js, TypeScript, Tailwind)
-🏅 NASA Space Apps Challenge 2024 Participant
-🏅 Smart India Hackathon 2024 Participant
-📜 AWS Cloud Virtual Internship (2024)
-📜 AWS Solutions Architecture Simulation (Forage, 2024)
-⭐ All India Rank: 75 - Coding Ninjas Fusion Friday
+```bash
+bun dev       # Start development server
+bun build     # Build for production
+bun start     # Start production server
+bun lint      # Run ESLint
 ```
 
----
+## 🎨 Design System
 
-## 📬 Let's Connect!
-
-<div align="center">
-
-**📧 Email:** [adityabhardwaj3369@gmail.com](mailto:adityabhardwaj3369@gmail.com)  
-**📱 Phone:** +91 7000825101  
-**💼 LinkedIn:** [Aditya Bhardwaj](https://www.linkedin.com/in/aditya-bhardwaj-997120289)  
-**🐙 GitHub:** [@TechTitan360](https://github.com/TechTitan360)  
-**🐦 Twitter:** [@TechTitan360](https://twitter.com/TechTitan360)
-
-</div>
-
----
-
-## 🎨 Color Palette
-
-```css
-/* Neubrutalist Colors */
---pink:    #f472b6   /* Vibrant Pink */
---cyan:    #22d3ee   /* Electric Cyan */
---yellow:  #fbbf24   /* Bright Yellow */
---purple:  #a78bfa   /* Soft Purple */
---lime:    #a3e635   /* Fresh Lime */
---orange:  #fb923c   /* Warm Orange */
---black:   #000000   /* Pure Black (borders) */
---white:   #ffffff   /* Clean White */
---amber:   #fef3c7   /* Warm Background */
-```
-
----
+- **Colors**: Dark background (`oklch(0.08 0 0)`) with orange accent (`oklch(0.7 0.2 45)`)
+- **Typography**: Bebas Neue for headlines, IBM Plex Mono for body
+- **Spacing**: Consistent vertical rhythm with `py-32` sections
+- **Borders**: No border radius — sharp, editorial aesthetic
 
 ## 📄 License
 
-```
-┌────────────────────────────────────────┐
-│  © 2025 Aditya Bhardwaj               │
-│  All Rights Reserved                   │
-│                                        │
-│  Feel free to get inspired, but       │
-│  please don't copy-paste! 🙏          │
-└────────────────────────────────────────┘
-```
+MIT © Aditya Bhardwaj
 
 ---
 
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║   💻 Coded with ❤️ and powered by ☕ & creativity     ║
-║                                                        ║
-║        "Build products that feel as good as           ║
-║              they perform" - Aditya                   ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
-**⭐ If you like this portfolio, consider giving it a star! ⭐**
-
-[![Star this repo](https://img.shields.io/github/stars/TechTitan360/tech-portfolio?style=social)](https://github.com/TechTitan360/tech-portfolio)
-
-</div>
+Built with ☕ and code.
